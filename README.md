@@ -9,7 +9,3 @@
 ##### assignment01
 
 UX Project DH110
-
-https://www.ucla.edu
-
-[let's go ucla](https://www.ucla.edu)
