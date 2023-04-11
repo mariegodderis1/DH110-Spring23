@@ -15,7 +15,7 @@ BeReal is a popular social media app that has spread over recent years and allow
 1. Visibility of System Status
    - 2/3 The concept of this app as well as the physical layout and functionality is fairly straightforward. 
 2. Match between System and the Real World
-   - BeReal uses words, concepts, and icons to clearly communicate the concept of the app and what users should do when. For example, when you open the app it states: “Time to BeReal: 2 mins left to capture a BeReal and see what your friends are up to!”. 
+   - 1/3 BeReal uses words, concepts, and icons to clearly communicate the concept of the app and what users should do when. For example, when you open the app it states: “Time to BeReal: 2 mins left to capture a BeReal and see what your friends are up to!”. 
 3. User Control and Freedom
    - 2/3 The app makes it difficult for users to find how to delete their BeReal posting, and “penalizes” people for retaking it by letting their friends know how many times it is retaken. This feature often incentivizes people to take their BeReal once and not again to stay authentic. There are only 3 main pages that users can navigate to on the app. 
 4. Consistency and Standards
