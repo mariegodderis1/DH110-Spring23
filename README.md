@@ -9,7 +9,7 @@ My app tackles the issue of forgetting special events such as family birthdays a
 ### [BeReal](https://bere.al/en)
 BeReal is a popular social media app that has spread over recent years and allows users to share a front and back camera photo at a random given moment during the day to show friends what you’re up to. 
 
-
+<img width="1033" alt="BeReal" src="https://user-images.githubusercontent.com/115651524/231203909-d9e58994-4259-4c20-84ea-7707c4bd4c06.png">
 
 #### Heuristic Evaluation
 1. Visibility of System Status
@@ -39,6 +39,8 @@ BeReal’s main functionality features are its sharing photo component, followin
 
 ### [Life360](https://www.life360.com/)
 Another mobile app that is relevant is Life360, which is a family safety and tracking app. 
+
+<img width="1028" alt="Life360" src="https://user-images.githubusercontent.com/115651524/231204030-3be13f2d-ab3c-44c8-8cd1-11593caace0c.png">
 
 #### Heuristic Evaluation
 1. Visibility of System Status
