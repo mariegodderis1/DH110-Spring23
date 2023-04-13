@@ -1,13 +1,9 @@
 ## Assignment02: Pilot UT
 
-### [MedLine](https://medlineplus.gov/)
+### What is User Testing?
+Usability refers to the effectiveness, efficiency, satisfaction that something provides. The purpose of User Testing is to collect empirical data through observing individuals using and performing realistic tasks with the product. The goal of a usability test is to ultimately improve the usabilit of the test by eliminating frustration, informing design, and improving profitability. 
 
-What is the purpose of User Testing? How & what you want to test especially based on the findings of your heuristic evaluation?
+For our user testing, we focused on the app [BeReal](https://bere.al/en). Our participant completed the study with this [UT Test Survey](https://forms.gle/9XyNxXfXLqorKahK8). Here is the [link to pilot UT video](here) 
 
-
-
-[UT Test Survey] (https://docs.google.com/forms/d/e/1FAIpQLSff97y0buMDaveFYFGTay-woelw1bKe9WMm3asUqxh_56BC6Q/viewform) 
-
-[Link to pilot UT video](here) 
-
-One paragraph describing what you learned during the pilot test, what went well and what did not go well, focusing on how you want to improve your UT in the future.
+### Reflection
+- what you learned during the pilot test, what went well and what did not go well, focusing on how you want to improve your UT in the future
