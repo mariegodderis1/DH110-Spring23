@@ -3,7 +3,7 @@
 ### What is User Testing?
 Usability refers to the effectiveness, efficiency, satisfaction that something provides. The purpose of User Testing is to collect empirical data through observing individuals using and performing realistic tasks with the product. The goal of a usability test is to ultimately improve the usabilit of the test by eliminating frustration, informing design, and improving profitability. 
 
-For our user testing, we focused on the app [BeReal](https://bere.al/en). Our participant completed the study with this [UT Test Survey](https://forms.gle/9XyNxXfXLqorKahK8). Here is the [link to pilot UT video](here) 
+For our user testing, we focused on the app [BeReal](https://bere.al/en). Our participant completed the study with this [UT Test Survey](https://forms.gle/9XyNxXfXLqorKahK8). Here is the [link to pilot UT video](https://drive.google.com/file/d/1SnP3w4QwoUsD4dOG2XM0b796JEVeguar/view?usp=sharing) 
 
 ### Reflection
 - This pilot test was conducted over zoom at UCLA. The user was asked to complete a few tasks on the app BeReal and assess the navigability and functionality of the app. Through this pilot test, I learned how to effectively set up a UT survey including the consent and orientation aspects.  I learned the importance of maintaining a healthy moderation with the participant and not interupting when they ran into issues or when they asked questions. 
