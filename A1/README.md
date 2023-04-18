@@ -1,10 +1,4 @@
-# DH110-Spring23
-
-## Marie Godderis
-## UX/UI Project Description
-My app tackles the issue of forgetting special events such as family birthdays and special occasions. The app has an integrated family calendar with all planned gatherings, travel, birthdays, and has templates for birthday wishes/cards and funny videos. You can record wishes at any time when you have free time, and they will be delivered on the event date in case you forget. 
-
-## Assignment01: Heuristic Analysis
+## Assignment 01: Heuristic Analysis
 
 ### [BeReal](https://bere.al/en)
 BeReal is a popular social media app that has spread over recent years and allows users to share a front and back camera photo at a random given moment during the day to show friends what you’re up to. 
