@@ -1,4 +1,4 @@
-## Assignment02: Pilot UT
+## Assignment 02: Pilot UT
 
 ### What is User Testing?
 Usability refers to the effectiveness, efficiency, satisfaction that something provides. The purpose of User Testing is to collect empirical data through observing individuals using and performing realistic tasks with the product. The goal of a usability test is to ultimately improve the usabilit of the test by eliminating frustration, informing design, and improving profitability. 
