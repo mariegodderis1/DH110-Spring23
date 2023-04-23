@@ -1,4 +1,4 @@
-## Assignment 03: User Research
+## Assignment 03: Contextual Inquiry / User Research
 
 ### Design Challenge & Research Goal
 #### What is the main activity your project would support the users in accomplishing?
@@ -8,25 +8,25 @@ This project will support users in being able to have an integrated family calen
 This activity fulfills the user’s basic need of belonging and love. The user wants to show up for their family and remembering important events and sending love.
 
 #### What is/are the traditional/current solution(s) to satisfy the needs?
-Current solutions to satisfy this need are FamilyCalendar and TimeTree.
+Current solutions to satisfy this need are FamilyCalendar and TimeTree. Google Calendar allows you to share events with others but to a certain extent it is hard to remember and keep track of all things overlapping.
 
 #### What is/are the limitation(s) that possibly would be improved with (digital) technology?
-Certain limitations for ______.
+Certain limitations for family calendars and event tracking are that sometimes the user just simply doesn't have time to keep up with the app and its functions. Sometimes people remember important life events but forget to reach out. 
 
 ### Specify Target Users
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise)
-Demographic: people of a legal driving age, own a car, in Los Angeles, likely not tourists, more likely to be current college students or recent grads
-Preferences: users have the desire and ability to drive to places and thus, need a parking solution to assist them
+Demographic: more likely to be adolescents or middle aged - busy working people
+
+Preferences: users have the desire and ability to stay in touch with their family, but are too busy/unorganized to stay in the loop and remember. 
+
 Expertise: users do not need any particular level of expertise to use this application
 
-#### Where would the users do that activity?
-
-#### What would the users do to complete that activity?
+#### Where would the users do that activity & what would the users do to complete that activity?
+Users would typically do this activity by either visiting family in person, or sending a personalized birthday message over text or call.
 
 ### Qualitative Research Methods
-- by covert / overt observation
-- by active / passive / participatory interaction
+The two observation methods I employed include participatory interaction and      .
 
 ### Participatory Research Materials
 - [Interview recording](link)
