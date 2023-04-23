@@ -29,8 +29,9 @@ Expertise: users do not need any particular level of expertise to use this appli
 - by active / passive / participatory interaction
 
 ### Participatory Research Materials
-- [Recording of ___](link)
-- interview transcript
-- [Research guide and interview notes](https://docs.google.com/document/d/1uYXBi7uf4Uf8gIlBGfap03EpEge6lUoB7bC_aaYL3Fc/edit?usp=sharing).
+- [Interview recording](link)
+- [Interview transcript](https://docs.google.com/document/d/1Ss1C9Qi_zgRDK3FeXVUUkvReRon8WSjSxQtJatoxAX4/edit?usp=sharing)
+- [Field Research Script/Guide](https://docs.google.com/document/d/15tmZX6eLlapBpy6l2XwPGLvUcvwt1Cp1O9dH1Rw5pqY/edit?usp=sharing)
+- [Field Observation Notes](https://docs.google.com/document/d/1tyB8VlLeq1Qm8Mq7855_v6mUYBrhGxqy6fgutSkkg_s/edit?usp=sharing)
 
 ### Reflection & Documentation
