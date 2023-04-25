@@ -24,7 +24,7 @@
 - Users would typically do this activity by either visiting family in person, or sending a personalized birthday message over text or call.
 
 ### Qualitative Research Methods
-- The two observation methods I employed include participatory interaction and      .
+- The two observation methods I employed include participatory and overt interaction.
 
 ### Participatory Research Materials
 - [Interview recording](https://drive.google.com/file/d/102C5pCaoeeftC3gd5Alz5vI5Q32IVbJA/view?usp=sharing)
