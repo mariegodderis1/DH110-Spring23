@@ -13,9 +13,12 @@ Based off of our contextual inquiries, user testing, and reasearch, I hope to im
 
 ### Personas & Empathy Map
 #### Darren's Persona & Empathy Map
-
+![Darren Persona](https://user-images.githubusercontent.com/115651524/235324768-47dd0c72-5f57-4ffc-9858-1347402d381e.png)
+![Darren Empathy](https://user-images.githubusercontent.com/115651524/235324767-d39b3ab1-d35e-40b0-bb76-de386fc715d0.png)
 
 #### Grace's Persona & Empathy Map
+![Grace Persona](https://user-images.githubusercontent.com/115651524/235324773-08ab7518-50d5-4d37-9326-cc772bf5387d.png)
+![Grace Empathy](https://user-images.githubusercontent.com/115651524/235324776-e516f3c7-f888-41b5-b3b4-2ae02727e58b.png)
 
 
 ### Scenarios & Journey Map
@@ -26,6 +29,8 @@ Why?
 How? 
 - Darren records all his birthday messages ahead of time during his vacation. This way, they will be automatically delivered and he feels that he is not being rude to his family. 
 
+![#1 Journey Map](https://user-images.githubusercontent.com/115651524/235323848-1492d0de-1dc8-4812-bed3-dbd8afef3672.png)
+
 #### Grace's Scenario + Journey Map
 Why?
 - Grace's only wish is to know what her family is up to, be able to support them, and navigate their activities easily. She wwants something simple, organized, and intuitive where she can comment on activities as well as see details of everyone's schedule rather than have all of them combined (which is too chaotic for her to navigate).
@@ -33,7 +38,7 @@ Why?
 How? 
 - Grace opens the app and is able to see tabs with the names of her children and grand children. She navigates to her grandchild Bob's tab and sees that he has a soccer game tomorrow. She clicks the comment function and writes, "good luck bob, you're going to crush it out there on the field!". Bob adds a photo that she can see as well. Grace is satisfied because she can easily view different calendars in the tabs as well as comment and react and stay in touch with the family. 
 
-
+![#2 Journey Map](https://user-images.githubusercontent.com/115651524/235323862-142b4c7b-af33-49a5-bb41-1858582388d8.png)
 
 ### Reflection
 This assignment allowed me to adopt the mindset of the user and really think critically about what the user would want/need and how they would benefit from certain features being implemented. It was hard coming up with personas that did not both have the same similar flaws in challenges because I wanted the features to be geared towards two different tasks. In the future I would like to look more into researching demographics that would apply well to this specific app.
