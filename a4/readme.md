@@ -21,17 +21,19 @@ Based off of our contextual inquiries, user testing, and reasearch, I hope to im
 ### Scenarios & Journey Map
 #### Darren's Scenario + Journey Map
 Why?
-- Darren 
+- Darren is a busy investment living in New York City. When he is with his family, he is extremely present and engaging. Although when he is living alone and busy immersed in his work life, he often forgets to reach out to his family, even when it's someone's birthday. His new year's resolution is to stay in touch and be present, even when living thousands of miles away from his family. 
 
 How? 
-- Darren 
+- Darren records all his birthday messages ahead of time during his vacation. This way, they will be automatically delivered and he feels that he is not being rude to his family. 
 
 #### Grace's Scenario + Journey Map
 Why?
-- Grace 
+- Grace's only wish is to know what her family is up to, be able to support them, and navigate their activities easily. She wwants something simple, organized, and intuitive where she can comment on activities as well as see details of everyone's schedule rather than have all of them combined (which is too chaotic for her to navigate).
 
 How? 
-- Grace
+- Grace opens the app and is able to see tabs with the names of her children and grand children. She navigates to her grandchild Bob's tab and sees that he has a soccer game tomorrow. She clicks the comment function and writes, "good luck bob, you're going to crush it out there on the field!". Bob adds a photo that she can see as well. Grace is satisfied because she can easily view different calendars in the tabs as well as comment and react and stay in touch with the family. 
+
+
 
 ### Reflection
 This assignment allowed me to adopt the mindset of the user and really think critically about what the user would want/need and how they would benefit from certain features being implemented. It was hard coming up with personas that did not both have the same similar flaws in challenges because I wanted the features to be geared towards two different tasks. In the future I would like to look more into researching demographics that would apply well to this specific app.
