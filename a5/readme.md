@@ -10,6 +10,7 @@ The low-fidelity prototype supports the following tasks:
 3. Template page for card generation and writing/storing messages --> option to sync with messages and auto send. 
 
 ### Basic Wirefames
+These are basic wireframes of the main pages one would see on the app. The arrows point to 'sub pages' that correlate with each main page. 
 ![Untitled_Artwork 5](https://user-images.githubusercontent.com/115651524/236349840-30c901be-bcde-4ae0-888f-9df0e7556be5.png)
 
 ###  Wireflow:
