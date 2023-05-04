@@ -9,10 +9,14 @@ The low-fidelity prototype supports the following tasks:
 2. Page where you can view independent calendars --> comment on people's and add pictures + personalized notes
 3. Template page for card generation and writing/storing messages --> option to sync with messages and auto send. 
 
-### Prototype
+### Basic Wirefames
+![Untitled_Artwork 5](https://user-images.githubusercontent.com/115651524/236349840-30c901be-bcde-4ae0-888f-9df0e7556be5.png)
+
+###  Wireflow:
+
+### User Interactions/Testing
 
 ### Feedback + Future Changes 
-- A description of what you would change or design differently based on the feedback you got from the prototype testing. For each, describe in a sentence or two about what problem the tester encountered, and in another sentence or two how you would address the problem if you were to revise the prototype.
+I began with evaluating what features I wanted to focus on and test. I sketched a bunch of different pages and from there I created new pages based off of features that would be on the original pages. Each page gives users different options of tasks to do which will lead them to a different page, so in the beginning it was hard to think about what should and shouldn't belong on a new page vs just a different pop up. The basic wireframes as seen above are the baseline pages and features one would see. The wireframes go into more detail for features and how users can navigate from one page to another. I felt that without explanations or captions, you wouldn't be able to know what page does what from the wireframes because they are so basic. 
 
-
-
+When tasking the user to interact with the prototype of the wireflow, they blah blah...This gives me insight to revise and do .. based on the problem she encountered. 
