@@ -5,7 +5,9 @@
 
 ### Task List 
 The low-fidelity prototype supports the following tasks:
-- input
+1. Main page with a shared family event calendar, with tabs where the user can naviagate to different family members' calendars
+2. Page where you can view independent calendars --> comment on people's and add pictures + personalized notes
+3. Template page for card generation and writing/storing messages --> option to sync with messages and auto send. 
 
 ### Prototype
 
