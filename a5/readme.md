@@ -5,7 +5,7 @@
 
 ### Task List 
 The low-fidelity prototype supports the following tasks:
-1. Main page with a shared family event calendar, with tabs where the user can naviagate to different family members' calendars
+1. Main page with a shared family event calendar --> tabs where the user can click/naviagate to different family members' calendars
 2. Page where you can view independent calendars --> comment on people's and add pictures + personalized notes
 3. Template page for card generation and writing/storing messages --> option to sync with messages and auto send. 
 
@@ -18,9 +18,10 @@ Below are a few of the wireflows of the pages within the app. The shared calenda
 ![Marie Wireflow](https://user-images.githubusercontent.com/115651524/236571340-795a9451-9542-4640-b859-45dca958348f.png)
 
 ### User Interactions/Testing
+![Marie User Feedback:Testing](https://user-images.githubusercontent.com/115651524/236648632-1ba60bb9-1919-48eb-a3d5-a22b00979424.png)
 
 
 ### Feedback + Future Changes 
 I began with evaluating what features I wanted to focus on and test. I sketched a bunch of different pages and from there I created new pages based off of features that would be on the original pages. Each page gives users different options of tasks to do which will lead them to a different page, so in the beginning it was hard to think about what should and shouldn't belong on a new page vs just a different pop up. The basic wireframes as seen above are the baseline pages and features one would see. The wireframes go into more detail for features and how users can navigate from one page to another. I felt that without explanations or captions, you wouldn't be able to know what page does what from the wireframes because they are so basic. 
 
-When tasking the user to interact with the prototype of the wireflow, they blah blah...This gives me insight to revise and do .. based on the problem she encountered. 
+When tasking the user to interact with the prototype of the wireflow, I gave them little to no context on the app which allowed them to truly experiment with an outside perspective. The user generally knew what was going on but immediately had some points of confusion. Examples of her confusion were that some elements should not belong in certain areas or on certain pages because they did not seem intuitive. This exercise gave me insight to revise further and really condense features and specify the calendaring and commenting aspects based on the problems she encountered. 
