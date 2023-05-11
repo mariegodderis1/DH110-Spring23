@@ -6,6 +6,13 @@ My project aims to provide people with a family calendaring app to tackle the is
 - Chosen Wireframe to work off of: 
 <img width="181" alt="Screen Shot 2023-05-11 at 11 21 39 AM" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/7324e357-e7c3-4a88-abcb-8cf3182b6f82">
 
+### Layout Design
+I experimented with several different layouts. It was fairly easy to figure out the columns because I wanted it to go off of the calendar edges, but I had difficulty creating the rows due to the different size of the "event tabs" and "calendar" and "buttons". Therfore I chose to add more rows so I had more flexibility to move things around.
+- 3 Columns, Gutter 20, Margin 90
+- 18 Rows, Gutter 35, Margin 100
+
+<img width="469" alt="Screen Shot 2023-05-11 at 3 31 38 PM" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/5be75731-da15-4b95-b124-54542faf3454">
+
 ### Graphical User Interface Design Variation (typography, shape, colors)
 **Typographic Variation:** I experimented with three different fonts: a serif, geometric sans serif, and a more hand written style font. I chose three drastically different fonts to truly see a difference in feel/look within the interface. This allows me to realize that a calendaring app best fits with a simple or playful font rather than a serif like Times New Roman.
 
