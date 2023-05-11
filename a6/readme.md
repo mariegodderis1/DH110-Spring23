@@ -25,7 +25,7 @@ I experimented with several different layouts. It was fairly easy to figure out 
 
 ### Impression Test
 - For my impression test, I went back to one of my old intervieweees who was familiar with the concept. The user was asked to interact with the digital prototype to which they responded with the following feedback:
-- 
+- 5 second test: The user was first drawn to __ and curious about __. 
 
 ### Accessibility + Contrast Check 
 It is extremely important to ensure that one's app is accessible to different users. All color combinations are tested for to ensure they are above the 4.5:1 ratio, as shown below. When using gradients, it was particularly hard to figure out the correct color contrasts as gradients typically have white and grey hues. 
