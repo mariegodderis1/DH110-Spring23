@@ -13,7 +13,7 @@ Shape variation
 Color schemes variations
 
 ### Impression Test
-For my impression test, I went back to one of my old intervieweees who was familiar with the concept. The user was asked to interact with the digital prototype to which they responded with the following feedback:
+- For my impression test, I went back to one of my old intervieweees who was familiar with the concept. The user was asked to interact with the digital prototype to which they responded with the following feedback:
 - 
 
 ### Accessibility + Contrast Check 
