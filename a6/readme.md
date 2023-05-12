@@ -19,6 +19,7 @@ I experimented with several different layouts. It was fairly easy to figure out 
 <img width="419" alt="Typographic Variations" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/a502cc14-71a7-4dd9-8307-181b640c2b76">
 
 **Shape Variation:** I experimented with rounding the corners of my rectangles of the calendar as well as events and the menu bar option. I realize that my app will look best with slightly rounded corners and rather than straight edges.
+
 <img width="414" alt="Shape Variation" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/fe1f4e13-c41d-4ad0-a5ab-ecb42393e765">
 
 **Color Palette Variation:** Figuring out the color palette was arguably the hardest, especially when trying to add gradients. My very first designs were simply black and white with simple blues, but then I added gradients to the light color scheme. In the dark color scheme, I had difficulty keeping the color contrast accessible. I aim to have my design have a versatile color pallette for many different types of users.
@@ -35,6 +36,8 @@ It is extremely important to ensure that one's app is accessible to different us
 ### Impression Test
 - For my impression test, I went back to one of my old intervieweees who was familiar with the concept. The user was asked to interact with the digital prototype to which they responded with the following feedback:
 - 5 second test: The user was first drawn to __ and curious about __. 
+- The user would like to see the side bar and click on it (to be developed). 
+- The user 
 
 ### Conclusion + Going Forward + Summary of Findings
 This initial prototyping and interface design was extremely experimental for me. I explored a lot of different styles and ways to show the first page of my calendaring app (didn't include all iterations here) and was able to determine what types of colors, shapes, and typographic choices I should stick with. Going forward, I want to keep my app simple, clean, and accessible. The next pages I will work on are the 'individual calendars', 'card generation page' and the 'sidebar' page. 
