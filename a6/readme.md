@@ -37,11 +37,9 @@ It is extremely important to ensure that one's app is accessible to different us
 
 ### Impression Test
 - For my impression test, I went back to one of my old intervieweees who was familiar with the concept. The user was asked to interact with the digital prototype to which they responded with the following feedback:
-- 5 second test: The user was first drawn to __ and curious about __. 
+- 5 second test: The user finds the layout to be straight forward and simple and appreciates it but does not like the colors scheme. 
 - The user would like to see the side bar and click on it (to be developed). 
 - The user would like to see more variation of color and also commented on the gap on the bottom. That gap will be filled with scrolling events and the events can open. 
 
 ### Conclusion + Going Forward + Summary of Findings
 This initial prototyping and interface design was extremely experimental for me. I explored a lot of different styles and ways to show the first page of my calendaring app (didn't include all iterations here) and was able to determine what types of colors, shapes, and typographic choices I should stick with. Going forward, I want to keep my app simple, clean, and accessible. The next pages I will work on are the 'individual calendars', 'card generation page' and the 'sidebar' page. 
-
-
