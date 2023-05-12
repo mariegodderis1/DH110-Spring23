@@ -29,6 +29,9 @@ It is extremely important to ensure that one's app is accessible to different us
 <img width="776" alt="LIGHT Color Contrast Approval" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/afa32ccd-c4c9-4f64-84d3-1dd784a7abcd">
 <img width="643" alt="Screen Shot 2023-05-11 at 10 46 37 AM" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/80f404ef-6e16-4811-8c24-a1b73ed0c718">
 
+<img width="677" alt="Screen Shot 2023-05-11 at 6 32 46 PM" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/4d84e957-38c8-4f4e-a1e8-e55cd8b00886">
+
+
 ### Impression Test
 - For my impression test, I went back to one of my old intervieweees who was familiar with the concept. The user was asked to interact with the digital prototype to which they responded with the following feedback:
 - 5 second test: The user was first drawn to __ and curious about __. 
