@@ -24,6 +24,8 @@ I experimented with several different layouts. It was fairly easy to figure out 
 
 **Color Palette Variation:** Figuring out the color palette was arguably the hardest, especially when trying to add gradients. My very first designs were simply black and white with simple blues, but then I added gradients to the light color scheme. In the dark color scheme, I had difficulty keeping the color contrast accessible. I aim to have my design have a versatile color pallette for many different types of users.
 
+<img width="453" alt="Screen Shot 2023-05-11 at 7 55 28 PM" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/2e9d8638-88f5-4a4b-80db-0dfd60ebccb9">
+
 ### Accessibility + Contrast Check 
 It is extremely important to ensure that one's app is accessible to different users. All color combinations are tested for to ensure they are above the 4.5:1 ratio, as shown below. When using gradients, it was particularly hard to figure out the correct color contrasts as gradients typically have white and grey hues. 
 
