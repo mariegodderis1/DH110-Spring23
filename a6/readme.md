@@ -1,7 +1,7 @@
 ## Assignment 06: Interface Design
 
 ### Project Brief and Key Tasks
-My project aims to provide people with a family calendaring app to tackle the issue of forgetting special events such as family birthdays and special occasions. My goal is to provide users with the opportunity to share calendars and keep track of family event a well as send messages and comment on events. In this assignment, I plan to create a digitized interface design for the main page, which allows users to navigate between the main shared calendar and other family members' calendars, as well as see upcoming events and attendees. 
+My project aims to provide people with a family calendering app to tackle the issue of forgetting special events such as family birthdays and special occasions. My goal is to provide users with the opportunity to share calendars and keep track of family event a well as send messages and comment on events. In this assignment, I plan to create a digitized interface design for the main page, which allows users to navigate between the main shared calendar and other family members' calendars, as well as see upcoming events and attendees. 
 - [Link to digitized wireflow](https://www.figma.com/file/cK3VbBPuylqksYXPdHwRS2/Marie-Godderis-A6-DH110-Product-(Copy)?type=design&node-id=0%3A1&t=n5r2P8ZpOnLPmjIL-1)
 - Chosen Wireframe to work off of: 
 <img width="181" alt="Screen Shot 2023-05-11 at 11 21 39 AM" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/7324e357-e7c3-4a88-abcb-8cf3182b6f82">
