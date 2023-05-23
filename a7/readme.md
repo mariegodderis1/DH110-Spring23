@@ -6,7 +6,7 @@ My project aims to provide people with a family calendering app to tackle the is
 #### Tasks that interactive prototype supports
 - Users should be able to view and edit their own calendar, main shared calendar, and all family member's calendars
 - Users can create birthday cards and anniversary cards or notes using templates and have them deliver automatically
-- Users can comment on 
+- Users can comment on events and add photos and message from the calendar
 
 One image (diagram) with the wireflow with graphic design 
 [Link to the interactive prototype](figma.com)
