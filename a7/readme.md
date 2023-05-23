@@ -8,8 +8,13 @@ My project aims to provide people with a family calendering app to tackle the is
 - Users can create birthday cards and anniversary cards or notes using templates and have them deliver automatically
 - Users can comment on events and add photos and message from the calendar
 
-One image (diagram) with the wireflow with graphic design 
+#### Wireflow
 [Link to the interactive prototype](figma.com)
 
-#### Cognitive walkthrough
+Note: I am actively trying to troubleshoot the drop-down menu section and interactions and plan to ask professor for guidance - I would appreciate it if you don't mark off points for this because I plan to ask/revise that part and am aware of the mistake. 
+
+#### Cognitive Walkthrough
+
+#### User Feedback / Reflection
+- to be added in class
 
