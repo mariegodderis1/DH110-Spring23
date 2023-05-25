@@ -9,6 +9,8 @@ My project aims to provide people with a family calendering app to tackle the is
 - Users can comment on events and add photos and message from the calendar
 
 #### Wireflow
+<img width="474" alt="Screen Shot 2023-05-24 at 10 39 23 PM" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/f69b095b-8374-4701-b567-a4508e8e3575">
+
 [Link to the interactive prototype](https://www.figma.com/file/iewH1ZKsQL62HzVCxgVLeI/A7-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=WhU8NHt5q4X63JE7-1)
 
 Note: I am actively trying to troubleshoot the drop-down menu section and interactions and plan to ask professor for guidance - I would appreciate it if you don't mark off points for this because I plan to ask/revise that part and am aware of the mistake. 
