@@ -13,7 +13,7 @@ My project aims to provide people with a family calendering app to tackle the is
 
 [Link to the interactive prototype](https://www.figma.com/file/iewH1ZKsQL62HzVCxgVLeI/A7-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=WhU8NHt5q4X63JE7-1)
 
-Note: I am actively trying to troubleshoot the drop-down menu section and interactions and plan to ask professor for guidance - I would appreciate it if you don't mark off points for this because I plan to ask/revise that part and am aware of the mistake. 
+Note: I am actively trying to troubleshoot the drop-down menu section and interactions and plan to ask professor for guidance - I would appreciate it if you don't mark off points for this because I plan to ask/revise that part and am aware of the mistake. In addition, the colors do not reflect the same in the prototype.
 
 #### Cognitive Walkthrough
 
