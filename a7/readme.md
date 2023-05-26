@@ -15,8 +15,5 @@ My project aims to provide people with a family calendering app to tackle the is
 
 Note: I am actively trying to troubleshoot the drop-down menu section and interactions and plan to ask professor for guidance - I would appreciate it if you don't mark off points for this because I plan to ask/revise that part and am aware of the mistake. In addition, the colors do not reflect the same in the prototype.
 
-#### Cognitive Walkthrough
-
-#### User Feedback / Reflection
-- to be added in class
-
+#### Cognitive Walkthrough + User Feedback / Reflection
+Overall, users were clear on what the app's motives and goal was, but my peers expressed difficulty navigating to different features within my app. I think it is important to distinguish the different events by colors and to add little notes on the app which allow users to know what to do next and where to navigate becuase it is otherwise confusing. Another main component that needs to be fixed is allowing users to exit out of certain pop-ups, because they get stuck.
