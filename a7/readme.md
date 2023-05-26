@@ -9,7 +9,7 @@ My project aims to provide people with a family calendering app to tackle the is
 - Users can comment on events and add photos and message from the calendar
 
 #### Wireflow
-<img width="474" alt="Screen Shot 2023-05-24 at 10 39 23 PM" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/f69b095b-8374-4701-b567-a4508e8e3575">
+<img width="634" alt="Screen Shot 2023-05-26 at 1 28 59 PM" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/66b14232-bee2-4a71-af43-352a8cfb3eba">
 
 [Link to the interactive prototype](https://www.figma.com/file/iewH1ZKsQL62HzVCxgVLeI/A7-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=WhU8NHt5q4X63JE7-1)
 
