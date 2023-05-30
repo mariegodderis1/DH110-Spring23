@@ -46,13 +46,14 @@ Based off of our contextual inquiries, user testing, and reasearch, I hope to im
 <!-- blank line -->
 <table>
 <tr>
-<td> <img src=”![Darren Persona (1)](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/5bd1c9e0-be07-4a36-a847-eeb7b1b8c84d)
+<td> <img src=”![Darren Persona (1)](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/50ce1c4e-c4ed-42ac-b0d4-3d4282651f05)
 ” height=”300px”> </td>
-<td> <img src=”![Darren Empathy (1)](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/3260172a-e03c-46d4-898d-7aa35509c3c2)
+<td> <img src=”![Darren Empathy (1)](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/f76bf8aa-8570-4dbe-bf84-d5c2de2ebe3e)
 ” height=”300px”> </td>
 </tr>
 </table>
 <!-- blank line →
+
 
 ![image](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/d94e1c4b-ae70-4d6a-8757-25cbb2e31432)
 ![image](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/2056681d-50fb-46df-9c85-e2c90959f5b2)
