@@ -64,10 +64,19 @@ Based off of our contextual inquiries, user testing, and reasearch, I hope to im
 Summary text and image, link to your assignment folder
 
 ### Low-fidelity prototype (wireflow, assignment06)
-Low fidelity prototypes are simple ways to design and test aspects of an app layout before high fidelity, detailed prototypes of the product. It will allow us to gain feedback and determine possible problems within the functionality of the app before progressing to final design stages. [read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a5)
+Low fidelity prototypes are simple ways to design and test aspects of an app layout before high fidelity, detailed prototypes of the product. It will allow us to gain feedback and determine possible problems within the functionality of the app before progressing to final design stages. 
+
+The low-fidelity prototype supports the following tasks:
+1. Main page with a shared family event calendar --> tabs where the user can click/naviagate to different family members' calendars
+2. Page where you can view independent calendars --> comment on people's and add pictures + personalized notes
+3. Template page for card generation and writing/storing messages --> option to sync with messages and auto send.
+[read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a5)
+
+[read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a6)
 
 ### High-fidelity prototype (functional/interactive prototype, assignment07)
-Summary statement and link to or an embedded prototype
+- add photo of wireframes 
+- [Link to the interactive high fidelity prototype](https://www.figma.com/file/iewH1ZKsQL62HzVCxgVLeI/A7-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=WhU8NHt5q4X63JE7-1)
 
 ### Optional evaluation and revision history: Including cognitive walkthrough; impression test, accessibility audit, NEW usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
 
