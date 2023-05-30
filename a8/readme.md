@@ -43,25 +43,11 @@ Based off of our contextual inquiries, user testing, and reasearch, I hope to im
 - The ability to comment and add photos or messages to certain calendared events (ex: "good luck on your soccer game!" when you see your brother has one scheduled for tomorrow).
 - Automatic sending of message on the day of the event + syncing with imessage
 
-<!-- blank line -->
-<table>
-<tr>
-<td> <img src=”![Darren Persona (1)](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/50ce1c4e-c4ed-42ac-b0d4-3d4282651f05)
-” height=”300px”> </td>
-<td> <img src=”![Darren Empathy (1)](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/f76bf8aa-8570-4dbe-bf84-d5c2de2ebe3e)
-” height=”300px”> </td>
-</tr>
-</table>
-<!-- blank line →
-
 ![image](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/d94e1c4b-ae70-4d6a-8757-25cbb2e31432)
 ![image](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/2056681d-50fb-46df-9c85-e2c90959f5b2)
 ![image](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/d7607690-e9d9-41e5-aad3-1df1b8641e7a)
 
 [read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a4)
-
-### Wireframe and graphic design element variation [assignment05]
-Summary text and image, link to your assignment folder
 
 ### Low-fidelity prototype (wireflow, assignment06)
 Low fidelity prototypes are simple ways to design and test aspects of an app layout before high fidelity, detailed prototypes of the product. It will allow us to gain feedback and determine possible problems within the functionality of the app before progressing to final design stages. 
@@ -70,15 +56,25 @@ The low-fidelity prototype supports the following tasks:
 1. Main page with a shared family event calendar --> tabs where the user can click/naviagate to different family members' calendars
 2. Page where you can view independent calendars --> comment on people's and add pictures + personalized notes
 3. Template page for card generation and writing/storing messages --> option to sync with messages and auto send.
-[read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a5)
+
+[View basic wireflows here](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a5)
 
 [read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a6)
 
-### High-fidelity prototype (functional/interactive prototype, assignment07)
-- add photo of wireframes 
-- [Link to the interactive high fidelity prototype](https://www.figma.com/file/iewH1ZKsQL62HzVCxgVLeI/A7-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=WhU8NHt5q4X63JE7-1)
+### Wireframe and graphic design element variation [assignment05]
+Typographic Variation: I experimented with three different fonts: a serif, geometric sans serif, and a more hand written style font. I chose three drastically different fonts to truly see a difference in feel/look within the interface. This allows me to realize that a calendaring app best fits with a simple or playful font rather than a serif like Times New Roman.
 
-### Optional evaluation and revision history: Including cognitive walkthrough; impression test, accessibility audit, NEW usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+Shape Variation: I experimented with rounding the corners of my rectangles of the calendar as well as events and the menu bar option. I realize that my app will look best with slightly rounded corners and rather than straight edges.
+
+Color Palette Variation: Figuring out the color palette was arguably the hardest, especially when trying to add gradients. My very first designs were simply black and white with simple blues, but then I added gradients to the light color scheme. In the dark color scheme, I had difficulty keeping the color contrast accessible. I aim to have my design have a versatile color pallette for many different types of users.
+
+[View graphic design element variation in wireframes](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a6)
+
+### High-fidelity prototype (functional/interactive prototype, assignment07)
+[Interactive high fidelity prototype](https://www.figma.com/file/iewH1ZKsQL62HzVCxgVLeI/A7-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=WhU8NHt5q4X63JE7-1)
+
+### Evaluation and revision history: 
+- Including cognitive walkthrough; impression test, accessibility audit, NEW usability testing)
 
 ### Pitch video [update the video after recording your presentation]
 - insert video here
