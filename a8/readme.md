@@ -1,5 +1,5 @@
 # Project title 
-##by Marie Godderis
+## by Marie Godderis
 
 ### Introduction: a brief information about the project.  What is the project about? The motivation of the project and possible contribution.
 For our DH 110 project, we were tasked to come up with an idea and design an app related to family connection and ___. My project 
