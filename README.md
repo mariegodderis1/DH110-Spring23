@@ -59,8 +59,6 @@ The low-fidelity prototype supports the following tasks:
 
 [View basic wireflows here](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a5)
 
-[read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a6)
-
 ### Wireframe and graphic design element variation [assignment05]
 Typographic Variation: I experimented with three different fonts: a serif, geometric sans serif, and a more hand written style font. I chose three drastically different fonts to truly see a difference in feel/look within the interface. This allows me to realize that a calendaring app best fits with a simple or playful font rather than a serif like Times New Roman.
 
