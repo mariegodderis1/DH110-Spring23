@@ -1,10 +1,10 @@
 # Project title 
 ## DH 110, UX+UI, Marie Godderis
 
-### Introduction: a brief information about the project.  What is the project about? The motivation of the project and possible contribution.
+### Introduction to the project & motivations
 For our DH 110 project, we were tasked to come up with an idea and design an app related to family connection. My app tackles the issue of forgetting special events such as family birthdays and special occasions. The app has an integrated family calendar with all planned gatherings, travel, birthdays, and has templates for birthday wishes/cards and funny videos. You can record wishes at any time when you have free time, and they will be delivered on the event date in case you forget. 
 
-### Design statement:  What is the issue and Why do you think it is important to resolve that issue by your project? 
+### Design statement:  What is the issue? Why is it important to resolve the issue? 
 Many people are often too busy to keep track of events and birthdays and find frustration with keeping track. The issue which we are looking to resolve is difficulty keeping track of family events such as birthdays, anniversaries, and day to day activities. The app gives all family members access to a shared calendar as well as individual calendars and card celebration templates as well as auto-send and reminders for special events. 
 
 ### Competitor analysis: heuristic analysis
