@@ -22,10 +22,14 @@ The ten usability heuristics include:
 9.  Help Users Recognize, Diagnose, And Recover From Errors
 10.  Help And Documentation
 
-In relation to family connection and apps that connect individuals together, I conducted heuristic analysis on the apps BeReal and Life360. [read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/A1)
+In relation to family connection and apps that connect individuals together, I conducted heuristic analysis on the apps BeReal and Life360. 
+
+[Read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/A1)
 
 ### Competitor analysis: usability testing
-Usability refers to the effectiveness, efficiency, satisfaction that something provides. The purpose of User Testing is to collect empirical data through observing individuals using and performing realistic tasks with the product. The goal of a usability test is to ultimately improve the usabilit of the test by eliminating frustration, informing design, and improving profitability. For our user testing, we focused on the app BeReal and asked a particiant to complete the study with a UT Test Survey. [read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a2)
+Usability refers to the effectiveness, efficiency, satisfaction that something provides. The purpose of User Testing is to collect empirical data through observing individuals using and performing realistic tasks with the product. The goal of a usability test is to ultimately improve the usabilit of the test by eliminating frustration, informing design, and improving profitability. For our user testing, we focused on the app BeReal and asked a particiant to complete the study with a UT Test Survey. 
+
+[Read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a2)
 
 ### User research: contextual inquiry
 The user research which takes place is based on participant observation, contextual inquiry, overt interaction. My goals are to learn about the following: 
@@ -47,7 +51,7 @@ Based off of our contextual inquiries, user testing, and reasearch, I hope to im
 ![image](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/2056681d-50fb-46df-9c85-e2c90959f5b2)
 ![image](https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/d7607690-e9d9-41e5-aad3-1df1b8641e7a)
 
-[read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a4)
+[Read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a4)
 
 ### Low-fidelity prototype: wireflows
 Low fidelity prototypes are simple ways to design and test aspects of an app layout before high fidelity, detailed prototypes of the product. It will allow us to gain feedback and determine possible problems within the functionality of the app before progressing to final design stages. 
