@@ -79,8 +79,5 @@ Color Palette Variation: Figuring out the color palette was arguably the hardest
 ### Pitch video [update the video after recording your presentation]
 - insert video here
 
-### Conclusion: what you learned throughout the process
-This quarter long project exposed me to blah blah. 
-
-
-
+### Conclusion: what did you learn throughout the process?
+This quarter long UX/UI project exposed me to the multi-step process of user research, testing, basic wireframing, low fidelity prototypes, high fidelity prototypes, and cognitive walkthrough and usability evaluations. Although I ran into many issues and roadblocks along the way, I was able to revise and learn from my mistakes throughout the quarter. This project was my first ever official attempt at conducting user research and following all the steps through to the final state of prototyping. When looking back at our user persona's and research, I think my app successfully caters towards several aspects of different users to solve their problems. The most difficult part for me was creating the actual working wireflows because it made me realize how many interactions needed to be created and how many outcomes are possible from just a few selections. I realized that it would be nearly impossible for me to make every outcome that I wanted (like creating the 12 months in the calendar + events for every family member + unique cards every time). I am therefore satisfied with my simple version of the app that allows users to complete my key tasks. In all, with the skills I learned in this class, I feel well equipped to start another UX/UI project of my own and appreciate the learn-by-doing method!
