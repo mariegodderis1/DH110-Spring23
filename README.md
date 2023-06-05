@@ -1,10 +1,10 @@
 # Project title 
 ## DH 110, UX+UI, Marie Godderis
 
-### Introduction: a brief information about the project.  What is the project about? The motivation of the project and possible contribution.
-For our DH 110 project, we were tasked to come up with an idea and design an app related to family connection. My app tackles the issue of forgetting special events such as family birthdays and special occasions. The app has an integrated family calendar with all planned gatherings, travel, birthdays, and has templates for birthday wishes/cards and funny videos. You can record wishes at any time when you have free time, and they will be delivered on the event date in case you forget. 
+### Introduction to the project & motivations
+For our Spring 2023 DH 110 UX/UI design project, we were tasked to come up with an idea and design an app related to family connection. My app tackles the issue of forgetting special events such as family birthdays and special occasions. The app has an integrated family calendar with all planned gatherings, travel, birthdays, and has templates for birthday wishes/cards and funny videos. You can record wishes at any time when you have free time, and they will be delivered on the event date in case you forget. 
 
-### Design statement:  What is the issue and Why do you think it is important to resolve that issue by your project? 
+### Design statement:  What is the issue? Why is it important to resolve the issue? 
 Many people are often too busy to keep track of events and birthdays and find frustration with keeping track. The issue which we are looking to resolve is difficulty keeping track of family events such as birthdays, anniversaries, and day to day activities. The app gives all family members access to a shared calendar as well as individual calendars and card celebration templates as well as auto-send and reminders for special events. 
 
 ### Competitor analysis: heuristic analysis
@@ -73,11 +73,14 @@ Color Palette Variation: Figuring out the color palette was arguably the hardest
 ### High-fidelity prototype (functional/interactive prototype, assignment07)
 [Interactive high fidelity prototype](https://www.figma.com/file/iewH1ZKsQL62HzVCxgVLeI/A7-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=WhU8NHt5q4X63JE7-1)
 
-### Evaluation and revision history: 
-- Including cognitive walkthrough; impression test, accessibility audit, NEW usability testing)
+### Evaluation & Cognitive Walk Through:
+The cognitive walk through is an activity where outside viewers can examine and walk through your prototype to provide feedback on their ability to complete a set of tasks as well as the functionality and aesthetics of the app. The main things I needed to improve on were adding color indicators, making sure there are back buttons and that users can click out of tabs, as well as removing bugs and distinguishing buttons.
+
+Here is a photo of some different revisions and iterations I went through:
+<img width="354" alt="Screen Shot 2023-06-04 at 5 23 12 PM" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/f89fe40a-de11-4397-a8b7-42ba198fed66">
 
 ### Pitch video [update the video after recording your presentation]
 - insert video here
 
-### Conclusion: what you learned throughout the process
-This quarter long project exposed me to blah blah. 
+### Conclusion: what did you learn throughout the process?
+This quarter long UX/UI project exposed me to the multi-step process of user research, testing, basic wireframing, low fidelity prototypes, high fidelity prototypes, and cognitive walkthrough and usability evaluations. Although I ran into many issues and roadblocks along the way, I was able to revise and learn from my mistakes throughout the quarter. This project was my first ever official attempt at conducting user research and following all the steps through to the final state of prototyping. When looking back at our user persona's and research, I think my app successfully caters towards several aspects of different users to solve their problems. The most difficult part for me was creating the actual working wireflows because it made me realize how many interactions needed to be created and how many outcomes are possible from just a few selections. I realized that it would be nearly impossible for me to make every outcome that I wanted (like creating the 12 months in the calendar + events for every family member + unique cards every time). I am therefore satisfied with my simple version of the app that allows users to complete my key tasks. In all, with the skills I learned in this class, I feel well equipped to start another UX/UI project of my own and appreciate the learn-by-doing method!
