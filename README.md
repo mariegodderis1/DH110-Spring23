@@ -1,4 +1,4 @@
-# Project title 
+# FamHub: Shared Family Calendaring App
 ## DH 110, UX+UI, Marie Godderis
 
 ### Introduction to the project & motivations
