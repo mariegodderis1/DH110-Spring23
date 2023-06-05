@@ -28,7 +28,7 @@ In relation to family connection and apps that connect individuals together, I c
 Usability refers to the effectiveness, efficiency, satisfaction that something provides. The purpose of User Testing is to collect empirical data through observing individuals using and performing realistic tasks with the product. The goal of a usability test is to ultimately improve the usabilit of the test by eliminating frustration, informing design, and improving profitability. For our user testing, we focused on the app BeReal and asked a particiant to complete the study with a UT Test Survey. [read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a2)
 
 ### User research [contextual inquiry, assignment03]:
-The user research which takes place is based on participant observation, contextual inquiry, overt interaction. The goals are to learn about My goals are to learn about the following: 
+The user research which takes place is based on participant observation, contextual inquiry, overt interaction. My goals are to learn about the following: 
 - what is specifically hard about keeping track of important events and staying in touch with family? 
 - what a user wishes could boost efficiency in remembering family events and sending birthday/important event messages.
 - how the participant currently communicates with their family and goes about sending messages. 
