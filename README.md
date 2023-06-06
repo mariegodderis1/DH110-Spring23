@@ -36,7 +36,8 @@ The user research which takes place is based on participant observation, context
 - what is specifically hard about keeping track of important events and staying in touch with family? 
 - what a user wishes could boost efficiency in remembering family events and sending birthday/important event messages.
 - how the participant currently communicates with their family and goes about sending messages. 
-[read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a3)
+
+[Read more…](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a3)
 
 ### UX storytelling: persona + scenario
 UX Storytelling allows us to understand how people experience and are able to effectively interact with an app. It involves identifying behavior, pain points, user goals, and insights. All of this allows us to ensure that the user's needs are satisfied through the project.
