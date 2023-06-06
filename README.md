@@ -75,6 +75,8 @@ Color Palette Variation: Figuring out the color palette was arguably the hardest
 ### High-fidelity prototype: functional & interactive
 [Interactive high fidelity prototype](https://www.figma.com/file/iewH1ZKsQL62HzVCxgVLeI/A7-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=WhU8NHt5q4X63JE7-1)
 
+https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/10287763-104a-4308-9da2-86dfbcf54187
+
 ### Evaluation & Cognitive Walk Through:
 The cognitive walk through is an activity where outside viewers can examine and walk through your prototype to provide feedback on their ability to complete a set of tasks as well as the functionality and aesthetics of the app. The main things I needed to improve on were adding color indicators, making sure there are back buttons and that users can click out of tabs, as well as removing bugs and distinguishing buttons.
 
