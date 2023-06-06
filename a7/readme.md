@@ -6,7 +6,7 @@ My project aims to provide people with a family calendering app to tackle the is
 #### Tasks that interactive prototype supports
 - Users should be able to view and edit their own calendar, main shared calendar, and all family member's calendars
 - Users can create birthday cards and anniversary cards or notes using templates and have them deliver automatically
-- Users can comment on events and add photos and message from the calendar
+- Users can comment on events from the calendar
 
 #### Wireflow
 <img width="634" alt="Screen Shot 2023-05-26 at 1 28 59 PM" src="https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/66b14232-bee2-4a71-af43-352a8cfb3eba">
