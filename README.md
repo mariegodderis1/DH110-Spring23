@@ -72,8 +72,8 @@ Color Palette Variation: Figuring out the color palette was arguably the hardest
 
 [View graphic design element variation in wireframes](https://github.com/mariegodderis1/DH110-Spring23/tree/main/a6)
 
-### High-fidelity prototype: functional & interactive
-[Interactive high fidelity prototype](https://www.figma.com/file/iewH1ZKsQL62HzVCxgVLeI/A7-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=WhU8NHt5q4X63JE7-1)
+### High-fidelity prototype:functional & interactive
+[Interactive high fidelity prototype](https://www.figma.com/file/iewH1ZKsQL62HzVCxgVLeI/MarieG-High-Fidelity-Prototype?type=design&node-id=0%3A1&t=ax0E980o012z5u4W-1)
 
 https://github.com/mariegodderis1/DH110-Spring23/assets/115651524/10287763-104a-4308-9da2-86dfbcf54187
 
